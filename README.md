@@ -99,7 +99,7 @@ person/
 ├── Person.sln                               # Arquivo da solução do projeto
 ├── person.sqlite                            # Banco de dados SQLite
 ├── Program.cs                               # Configuração inicial da API
-└── tempCodeRunnerFile.cs                     # Arquivo temporário criado pelo VSCode
+└── tempCodeRunnerFile.cs                    # Arquivo temporário criado pelo VSCode
 ```
 
 
