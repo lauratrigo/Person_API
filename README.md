@@ -1,4 +1,4 @@
-# Person API 💻
+# 💻 Person API 
 
 Esta é uma API simples desenvolvida com **.NET 9** (entretanto, tem como adapta-la de acordo com a sua versão) e **Entity Framework Core**. A API permite realizar operações **CRUD** (Criar, Ler, Atualizar e Deletar) em um banco de dados **SQLite** que armazena informações sobre pessoas.
 
